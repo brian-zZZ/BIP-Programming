@@ -1,0 +1,7 @@
+# "pip install -r reqirements.txt" to install dependencies
+
+opencv-python == 4.5.5.64 # images I/O
+numpy ==1.21.5 # array operations
+scipy == 1.8.0 # convolution and bessel function
+matplotlib == 3.5.1 # visualization
+pandas == 1.4.2 # multiple sorting
